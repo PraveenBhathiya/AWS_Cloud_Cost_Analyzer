@@ -1,0 +1,5 @@
+ResourceID,Service,ResourceType,UsageMetric,EstimatedCostUSD,PotentialSavingsUSD
+i-0788355abf9e5903c,EC2,t3.micro,CPU 0.00%,16.79,16.79
+i-0728229bf1eeb34e8,EC2,t3.micro,CPU 0.18%,16.79,16.79
+i-053917f8894f0bf10,EC2,t3.micro,CPU 0.00%,16.79,16.79
+elasticbeanstalk-ap-south-1-539247488428,S3,Bucket,Size 0.00 GB,0.0,0.0
